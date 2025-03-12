@@ -7,4 +7,8 @@ add_executable(multiThreading main.cpp
         mutex.cpp
         shrMutex.cpp
         shrMutex2.cpp
-        mutex3.cpp)
+        mutex3.cpp
+        semaphore.cpp
+        future.cpp
+        future2.cpp
+        kr1.cpp)
